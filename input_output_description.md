@@ -93,4 +93,4 @@ A JSON file (dictionary of dictionaries) called code_lvl_scores.json in ./output
     * Keys: Charge codes
     * Values: Risk scores associated with each charge code
 
- -Reference file: input_data.zip.out
+ -Reference file: input_data.json.out
